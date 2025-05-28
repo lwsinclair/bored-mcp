@@ -1,1 +1,1 @@
-# bored-mcp
+# Weather mcp
